@@ -13,6 +13,9 @@ describe('XyzComponent', () => {
     .compileComponents();
     //SD
     //SDSDSDDFF
+
+
+    //MICHI....... .. . . . . . .. .  .. . 
     fixture = TestBed.createComponent(XyzComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
